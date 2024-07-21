@@ -10,3 +10,7 @@ Below, you can see an example. The white borders just indicate how the algorithm
 ![Sample image](https://github.com/mnl12/quadtreecnn/blob/main/Sample_images/6.jpg?raw=true)
 ![Predicted mask](https://github.com/mnl12/quadtreecnn/blob/main/Results/quadtree/quad_pred_mask6.png?raw=true)
 
+# Installation:
+Simply run:
+pip install -r requirements. txt
+
