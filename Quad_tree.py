@@ -3,7 +3,6 @@ import tensorflow as tf
 import cv2
 from PIL import Image
 from generator import fire_image_generator
-from my_metrics import my_binary_miou_metric, me_others_iou_binary, my_binary_consistency_metric
 from utils import display, create_tf_binary_mask, get_label_gt
 from models import segmentation_network
 from metrics import binary_miou_metric
