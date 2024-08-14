@@ -11,6 +11,11 @@ Below, you can see an example. The white borders just indicate how the algorithm
 ![Predicted mask](https://github.com/mnl12/quadtreecnn/blob/main/Results/quadtree/quad_pred_mask6.png?raw=true)
 
 # Installation:
-Simply run:
-pip install -r requirements. txt
+To install using conda:
 
+```
+conda create -n fire_qtree python=3.8
+conda activate fire_qtree
+pip install --upgrade pip
+pip install -r requirements. txt
+```
