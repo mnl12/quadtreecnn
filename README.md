@@ -17,5 +17,5 @@ To install using conda:
 conda create -n fire_qtree python=3.8
 conda activate fire_qtree
 pip install --upgrade pip
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
